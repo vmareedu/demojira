@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: JiraIntegrationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.441 sec <<< FAILURE! - in JiraIntegrationTest
+JiraTest1 on JiraTest1(JiraIntegrationTest)(JiraIntegrationTest)  Time elapsed: 0.008 sec  <<< FAILURE!
+org.junit.ComparisonFailure: expected:<[expeted]> but was:<[Actual]>
+	at org.junit.Assert.assertEquals(Assert.java:115)
+	at org.junit.Assert.assertEquals(Assert.java:144)
+	at JiraIntegrationTest.JiraTest1(JiraIntegrationTest.java:8)
+
