@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class JiraIntegrationTest {
+public class JiraTC03_Test {
 	@Test
 	public void JiraTest1()
 	{
